@@ -11,7 +11,7 @@
 *All Donaters will get their names/clans/clan's ip published in Credits !
 *All Donations are helpfull !
 *Help us keep it alive !
-=> Donation To (PayPal): Anishammami2010@hotmail.fr
+=> Donation To (PayPal): https://www.paypal.me/lordsec
 [IMPORTANT]
 
 Thanks everyone for using my Rcon&Ban tool v2.5 which is a software to full control/protect your Call of duty 1 servers.
@@ -30,45 +30,45 @@ So today where i see everyone complaining about UGFC Java ban tool which sucks, 
 
 Releases:
 
-*Rcon&Ban v2.5: (Num:°10)
+*Rcon&Ban v2.5: (Num:Â°10)
 ---------------------------------------------------------------
 > Graphic & Design
 ---------------------------------------------------------------
 
-*Rcon&Ban v2.4: (Num:°9)
+*Rcon&Ban v2.4: (Num:Â°9)
 ---------------------------------------------------------------
 > Login page
 ---------------------------------------------------------------
 
-*Rcon&Ban v2.3: (Num:°8)
+*Rcon&Ban v2.3: (Num:Â°8)
 ---------------------------------------------------------------
 > Fixed Critical Bug
 ---------------------------------------------------------------
 
-*Rcon&Ban v2.1: (Num:°7)
+*Rcon&Ban v2.1: (Num:Â°7)
 ---------------------------------------------------------------
 > Fixed Name bug which can result to spliting the infos wrong (Tested & Works Perfect, no more bugging @ kicking/banning players)
 > REMEMBER: Rcon&Ban is Anti-Flood/Bots, all you have to do is to IP Range Ban 1 Bot, and all will be banned (included the attacker)
 ---------------------------------------------------------------
 
-*Rcon&Ban v1.9: (Num:°6)
+*Rcon&Ban v1.9: (Num:Â°6)
 ---------------------------------------------------------------
 > Fixed Map Naming such as "Mp_Carentan" "Mp_HarBor"...
 > Fixed Name bug which can result to spliting the infos wrong (under test <didn't work>)
 ---------------------------------------------------------------
 
-*Rcon&Ban v1.8: (Num:°5)
+*Rcon&Ban v1.8: (Num:Â°5)
 ---------------------------------------------------------------
 > Fixed Critical bug
 ---------------------------------------------------------------
 
-*Rcon&Ban v1.7: (Num:°4)
+*Rcon&Ban v1.7: (Num:Â°4)
 ---------------------------------------------------------------
 > Added IP Range Ban
 > Added Auto Updater
 ---------------------------------------------------------------
 
-*Rcon&Ban v1.22: (Num:°3)
+*Rcon&Ban v1.22: (Num:Â°3)
 ---------------------------------------------------------------
 > Fixed limited admins when they don't have message center rights, rcon&ban is on mute.
 > Fixed player's list bug by auto check every 5 sec (under test)
@@ -77,12 +77,12 @@ Releases:
 > Changed a bit the design ;)
 ---------------------------------------------------------------
 
-*Rcon&Ban v1.21: (Num:°2)
+*Rcon&Ban v1.21: (Num:Â°2)
 ---------------------------------------------------------------
 > Fixed a critical bug
 ---------------------------------------------------------------
 
-*Rcon&Ban v1.20: (Num:°1)
+*Rcon&Ban v1.20: (Num:Â°1)
 ---------------------------------------------------------------
 > You can full control your zombie server (Private)
 > You have full control on the map (change / rotate / restart / gametype..)
@@ -105,14 +105,6 @@ which You can Enable or Disable some functions in the Rcon&Ban tool specially ju
 *Contact List:
 ---------------------------------------------------------------
 > Steam: Malsec
-
-> Razor Comm: Malsec
-
-> Xfire: Anisthebest1
-
-> Skype: anis.hammami9
-
-> Facebook: http://facebook.com/h4ckern3t
 
 > Facebook Page: http://facebook.com/rconban
 
