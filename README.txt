@@ -104,7 +104,7 @@ which You can Enable or Disable some functions in the Rcon&Ban tool specially ju
 
 *Contact List:
 ---------------------------------------------------------------
-> Steam: Malsec
+> Steam: Malsectn
 
 > Facebook Page: http://facebook.com/rconban
 
